@@ -42,13 +42,6 @@ const AboutPage = ({ data }, location) => {
             <a href="https://docs.ghost.org/api/handlebars-themes/">web展示</a>{" "}
             を行い、作品展示や部誌の公開を行いました。
           </p>
-          <p>
-            Don't forget to check out the{" "}
-            <a href="https://docs.ghost.org/integrations/">
-              Ghost Integrations Directory
-            </a>{" "}
-            for more ways to integrate Ghost with your favourite services.
-          </p>
         </div>
       </article>
     </Layout>
