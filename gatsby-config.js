@@ -92,7 +92,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/kucc-icon.jpg`,
+        icon: `content/assets/kucc_icon.jpg`,
       },
     },
     `gatsby-plugin-netlify`,
