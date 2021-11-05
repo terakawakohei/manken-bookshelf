@@ -53,7 +53,7 @@ function SEO({ description, lang, meta, keywords, title }) {
         },
         {
           property: "og:image",
-          content: `https://mystifying-turing-59e820.netlify.app/images/how.jpg`,
+          content: `https://mystifying-turing-59e820.netlify.app/images/cardimage.png`,
         },
         {
           name: `twitter:card`,
