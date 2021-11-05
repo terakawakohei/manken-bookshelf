@@ -14,17 +14,3 @@ description: 2021-11-13 published
 </div>
 
 
-<div style="text-align: center;margin-top: 40px;margin-bottom: 10px;">
-<strong>Comment</strong>
-</div>
-<div style="text-align: center;">
-<form name="voom69" action="/completed" method="POST" netlify>
- <input type="hidden" name="form-name" value="voom69" />
-  <p>
-    <label><textarea name="message"></textarea></label>
-  </p>
-  <p>
-    <button 　type="submit">Send</button>
-  </p>
-</form>
-</div>

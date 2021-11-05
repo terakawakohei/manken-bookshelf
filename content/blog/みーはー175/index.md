@@ -15,17 +15,3 @@ description: 2020-11-10 published
 </div>
 
 
-<div style="text-align: center;margin-top: 40px;margin-bottom: 10px;">
-<strong>Comment</strong>
-</div>
-<div style="text-align: center;">
-<form name="mi-ha-175" action="/completed" method="POST" netlify>
- <input type="hidden" name="form-name" value="mi-ha-175" />
-  <p>
-    <label><textarea name="message"></textarea></label>
-  </p>
-  <p>
-    <button 　type="submit">Send</button>
-  </p>
-</form>
-</div>

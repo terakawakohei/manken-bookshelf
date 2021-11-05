@@ -27,7 +27,6 @@ const FormPage = ({ data }, location) => {
         </div>
         <div className="post-content-body">
           <form name="impression" action="/completed" method="POST" netlify>
-            <input type="hidden" name="form-name" value="impression" />
             <p>
               <label>
                 <label
