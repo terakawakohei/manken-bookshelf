@@ -56,12 +56,12 @@ function SEO({ description, lang, meta, keywords, title }) {
           content: `${process.env.GATSBY_BASE_URL}/static/mi-ha-.png`,
         },
         {
-          property: "twitter:image",
-          content: `${process.env.GATSBY_BASE_URL}/static/mi-ha-.png`,
-        },
-        {
           name: `twitter:card`,
           content: `summary`,
+        },
+        {
+          property: "twitter:image",
+          content: `${process.env.GATSBY_BASE_URL}/static/mi-ha-.png`,
         },
         {
           name: `twitter:creator`,
