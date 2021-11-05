@@ -14,7 +14,7 @@ description: 2021-11-13 published
 <sub><em>安定した通信環境下での閲覧を推奨します</em></sub>
 
 
-<form name="contact" method="POST" netlify>
+<form name="mi-ha-177" method="POST" netlify>
   <p>
     <label>Your Name: <input type="text" name="name" /></label>   
   </p>
