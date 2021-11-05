@@ -35,7 +35,6 @@ const FormPage = ({ data }, location) => {
                     marginBottom: "15px",
                   }}
                 >
-                  本の名前を選択してください:{" "}
                   <select name="role[]">
                     <option value="mi-ha-175">みーはー175</option>
                     <option value="voom67">voom+67</option>
