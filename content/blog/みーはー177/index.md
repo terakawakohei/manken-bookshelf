@@ -1,7 +1,7 @@
 ---
 title: みーはー177
 date: "2021-11-13"
-thumbnail: ./mi-ha-.png
+thumbnail: ./mi-ha-177.png
 description: 2021-11-13 published
 ---
 
@@ -10,21 +10,23 @@ description: 2021-11-13 published
 <a href="https://kucc-rokko-festival.herokuapp.com/bibi/?book=mi-ha-177.epub"><button>click to read</button></a>
 </div>
 
-<div style="text-align: center;margin-top: 10px;">
+<div style="text-align: center;margin-top: 10px;margin-bottom: 30px;">
 <sub><em>安定した通信環境下での閲覧を推奨します</em></sub>
+</div>
 
 
-<form name="mi-ha-177" action="/links" method="POST" netlify>
+<div style="text-align: center;margin-top: 40px;margin-bottom: 10px;">
+<strong>Comment</strong>
+</div>
+<div style="text-align: center;">
+<form name="mi-ha-177" action="/completed" method="POST" netlify>
  <input type="hidden" name="form-name" value="mi-ha-177" />
   <p>
-    <label>Message: <textarea name="message"></textarea></label>
+    <label><textarea name="message"></textarea></label>
   </p>
   <p>
-    <button type="submit">Send</button>
+    <button 　type="submit">Send</button>
   </p>
 </form>
-
-
-
 </div>
 
