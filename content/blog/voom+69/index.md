@@ -14,3 +14,10 @@ description: 2021-11-13 published
 </div>
 
 
+<div style="text-align: center;margin-top: 70px;margin-bottom: 10px;">
+<strong>
+
+[感想を書く✍](https://mystifying-turing-59e820.netlify.app/form/)
+
+</strong>
+</div>

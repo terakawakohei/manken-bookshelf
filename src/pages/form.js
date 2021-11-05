@@ -51,7 +51,11 @@ const FormPage = ({ data }, location) => {
                 <textarea name="message"></textarea>
               </label>
             </p>
-            <p>
+            <p
+              style={{
+                textAlign: "center",
+              }}
+            >
               <button type="submit">Send</button>
             </p>
           </form>

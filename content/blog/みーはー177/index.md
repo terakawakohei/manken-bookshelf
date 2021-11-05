@@ -15,25 +15,8 @@ description: 2021-11-13 published
 </div>
 
 
-<div style="text-align: center;margin-top: 40px;margin-bottom: 10px;">
-<strong>Comment</strong>
-</div>
-<div style="text-align: center;">
-<form name="mi-ha-177" action="/completed" method="POST" netlify>
- <input type="hidden" name="form-name" value="mi-ha-177" />
-  <p>
-    <label><textarea style="text-align: center;"name="message" style="width:80%;min-height: 100px;
-"></textarea></label>
-  </p>
-  <p>
-    <button 　type="submit">Send</button>
-  </p>
-</form>
 
-<button >Comment</button>
-</div>
-
-<div style="text-align: center;margin-top: 40px;margin-bottom: 10px;">
+<div style="text-align: center;margin-top: 70px;margin-bottom: 10px;">
 <strong>
 
 [感想を書く✍](https://mystifying-turing-59e820.netlify.app/form/)
