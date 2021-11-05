@@ -22,7 +22,7 @@ description: 2021-11-13 published
 <form name="mi-ha-177" action="/completed" method="POST" netlify>
  <input type="hidden" name="form-name" value="mi-ha-177" />
   <p>
-    <label><textarea name="message" style="min-width: 300px;min-height: 100px;
+    <label><textarea style="text-align: center;"name="message" style="width:80%;min-height: 100px;
 "></textarea></label>
   </p>
   <p>
