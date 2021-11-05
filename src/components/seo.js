@@ -53,16 +53,16 @@ function SEO({ description, lang, meta, keywords, title }) {
         },
         {
           property: "og:image",
-          content: `${process.env.GATSBY_BASE_URL}/static/mi-ha-.png`,
+          content: `https://mystifying-turing-59e820.netlify.app/images/mi-ha-.png`,
         },
         {
           name: `twitter:card`,
-          content: `summary`,
+          content: `summary_large_image`,
         },
-        {
-          property: "twitter:image",
-          content: `${process.env.GATSBY_BASE_URL}/static/mi-ha-.png`,
-        },
+        // {
+        //   property: "twitter:image",
+        //   content: `${process.env.GATSBY_BASE_URL}/static/mi-ha-.png`,
+        // },
         {
           name: `twitter:creator`,
           content: site.siteMetadata.author,
