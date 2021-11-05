@@ -53,11 +53,11 @@ function SEO({ description, lang, meta, keywords, title }) {
         },
         {
           property: "og:image",
-          content: `${process.env.GATSBY_BASE_URL}/static/how.jpg`,
+          content: `${process.env.GATSBY_BASE_URL}/static/mi-ha-.png`,
         },
         {
           property: "twitter:image",
-          content: `${process.env.GATSBY_BASE_URL}/static/how.jpg`,
+          content: `${process.env.GATSBY_BASE_URL}/static/mi-ha-.png`,
         },
         {
           name: `twitter:card`,
