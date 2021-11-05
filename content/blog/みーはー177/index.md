@@ -15,6 +15,7 @@ description: 2021-11-13 published
 
 
 <form name="mi-ha-177" method="POST" netlify>
+ <input type="hidden" name="form-name" value="mi-ha-177" />
   <p>
     <label>Your Name: <input type="text" name="name" /></label>   
   </p>
