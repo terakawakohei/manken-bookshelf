@@ -10,6 +10,6 @@ description: 2020-11-10 published
 </div>
 
 <div style="text-align: center;margin-top: 10px;">
-<sub><em>wi-fi環境下での閲覧を推奨します</em></sub>
+<sub><em>安定した通信環境下での閲覧を推奨します</em></sub>
 </div>
 

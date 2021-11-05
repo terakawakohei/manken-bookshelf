@@ -1,7 +1,7 @@
 ---
 title: About
 date: "2021-09-06"
-thumbnail: ./bbbb.jpg
+thumbnail: ./how.jpg
 ---
 
 神戸大学漫画研究会では、神戸大学の学園祭である「六甲祭」に例年出展し作品展示や部誌販売を行っています。

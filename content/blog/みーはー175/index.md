@@ -11,6 +11,26 @@ description: 2020-11-10 published
 </div>
 
 <div style="text-align: center;margin-top: 10px;">
-<sub><em>wi-fi環境下での閲覧を推奨します</em></sub>
+<sub><em>安定した通信環境下での閲覧を推奨します</em></sub>
+
+
+<form name="contact" method="POST" netlify>
+  <p>
+    <label>Your Name: <input type="text" name="name" /></label>   
+  </p>
+ 
+  <p>
+    <label>Your Role: <select name="role[]" multiple>
+      <option value="leader">Leader</option>
+      <option value="follower">Follower</option>
+    </select></label>
+  </p>
+  <p>
+    <label>Message: <textarea name="message"></textarea></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
 </div>
 
