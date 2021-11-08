@@ -46,6 +46,7 @@ const FormPage = ({ data }, location) => {
                     <option value="voom67">voom+67</option>
                     <option value="mi-ha-177">みーはー177</option>
                     <option value="voom69">voom+69</option>
+                    <option value="all">全体に向けて</option>
                   </select>
                 </label>
                 <textarea name="message"></textarea>
