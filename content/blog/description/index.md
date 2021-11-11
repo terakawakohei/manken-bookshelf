@@ -1,7 +1,7 @@
 ---
 title: パネル展
 date: "2021-09-06"
-thumbnail: ./how.jpg
+thumbnail: ./image35.jpg
 description: 神戸大学研究会では、毎年六甲祭にてパネル展示会を行っています。
 ---
 

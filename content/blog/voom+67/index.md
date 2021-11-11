@@ -4,7 +4,9 @@ date: "2020-11-10"
 thumbnail: ./voom67.png
 description: 2020-11-10 published
 ---
-
+<div style="text-align: center;margin-top: 10px;margin-bottom: 90px;">
+<p>voom+69のテーマは<strong>「悪魔」</strong>です</p>
+</div>
 <div style="text-align: center;margin-top: 10px;margin-bottom: 50px;">
 <sub>安定した通信環境下での閲覧を推奨します</sub>
 </div>

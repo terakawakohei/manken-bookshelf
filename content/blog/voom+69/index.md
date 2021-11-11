@@ -4,6 +4,12 @@ date: "2021-11-13"
 thumbnail: ./voom69.png
 description: 2021-11-13 published
 ---
+
+<div style="text-align: center;margin-top: 10px;margin-bottom: 90px;">
+<p>voom+69のテーマは<strong>「和風」</strong>です</p>
+</div>
+
+
 <div style="text-align: center;margin-top: 10px;margin-bottom: 50px;">
 <sub>安定した通信環境下での閲覧を推奨します</sub>
 </div>
